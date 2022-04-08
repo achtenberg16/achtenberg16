@@ -1,9 +1,9 @@
 ### Hi there 👋! 
+ <img align="center" alt="profile" height="200" width="" src="/img/f012d0ff-727c-4127-959d-d4873c835647.webp">
 ### I'm Alessandro achtenberg, I'm 20 years old and I'm starting my career in the programming world!
 
 - 🌱 I am currently learning web development at Trybe. 
 - 🌱 technologies I'm studying: TypeScript, React, Redux, ContexAPI, NodeJS, MYSQL, MongoDB 
- <img align="rigth" alt="profile" height="150" width="" src="/img/f012d0ff-727c-4127-959d-d4873c835647.webp">
 
 <div align="center">
   <a href="https://github.com/achtenberg16">
