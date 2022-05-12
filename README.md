@@ -16,12 +16,12 @@
   <img align="center" alt="html" height="50" width="" src="/img/html.svg">
   <img align="center" alt="css" height="50" width="" src="/img/css3.svg">
   <img align="center" alt="java-scipt" height="50" src="/img/javascript.svg">
+  <img align="center" alt="node" height="50" src="/img/typescript.svg">
   <img align="center" alt="react" height="50" src="/img/react.svg">
   <img align="center" alt="node" height="50" src="/img/redux.svg">
   <img align="center" alt="node" height="50" src="/img/node.svg">
   <img align="center" alt="node" height="50" src="/img/mocha.svg">
   <img align="center" alt="node" height="50" src="/img/express.svg">
-  <img align="center" alt="node" height="50" src="/img/typescript.svg">
   <img align="center" alt="node" height="50" src="/img/docker.svg">
   <img align="center" alt="node" height="50" src="/img/mysql.svg">
   <img align="center" alt="node" height="50" src="/img/mongodb.svg">
