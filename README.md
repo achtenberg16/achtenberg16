@@ -2,7 +2,7 @@
 ### I'm Alessandro achtenberg, I'm 20 years old and I'm starting my career in the programming world!
 
 - 🌱 I am currently learning web development at Trybe. 
-- 🌱 technologies I'm studying: TypeScript, React, Redux, ContexAPI, NodeJS, MYSQL, MongoDB, DOCKER 
+- 🌱 technologies I'm studying: TypeScript, React, Redux,React Testing Library, ContexAPI, NodeJS, Mocha, Chai, Express, MYSQL, MongoDB, DOCKER, TypeScript
 
 <div align="center">
   <a href="https://github.com/achtenberg16">
